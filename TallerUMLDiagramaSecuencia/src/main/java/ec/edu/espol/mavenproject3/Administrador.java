@@ -6,7 +6,7 @@ package ec.edu.espol.mavenproject3;
 
 /**
  *
- * @author CltControl
+ * @author Abeni
  */
 public class Administrador extends Usuario {
         

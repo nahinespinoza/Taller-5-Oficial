@@ -8,6 +8,6 @@ package ec.edu.espol.mavenproject3;
  *
  * @author Abeni
  */
-public class ActividadSumativa {
-    
+public class Evaluacion extends ActividadSumativa{
+    private int LimiteTiempo;
 }

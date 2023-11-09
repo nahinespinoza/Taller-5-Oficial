@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author CltControl
+ * @author Abeni
  */
 public class Usuario {
     protected String usuario;
@@ -35,5 +35,7 @@ public class Usuario {
         
     }
     
-    public Usuario(){}
+    public Usuario(){
+    
+    }
 }

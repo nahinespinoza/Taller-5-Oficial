@@ -4,10 +4,12 @@
  */
 package ec.edu.espol.mavenproject3;
 
+import java.time.LocalDateTime;
+
 /**
  *
  * @author Abeni
  */
-public class Curso {
-    
+public class Tarea extends ActividadSumativa{
+    private LocalDateTime fechaPublicacion;
 }

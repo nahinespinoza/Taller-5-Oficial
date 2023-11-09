@@ -9,23 +9,22 @@ import java.util.List;
 
 /**
  *
- * @author marle
+ * @author Abeni
  */
 public class Estudiante {
-    
+
     private List<Curso> cursosInscrito = new ArrayList();
     private List<Curso> cursosEnEsperaDeInscripcion = new ArrayList();
 
-    
-    public void solicitarInscripcion(Curso curso){
-        
+    public void solicitarInscripcion(Curso curso) {
+
     }
-    
-    public void realizarActividadSumativa(Curso curso, ActividadSumativa actividadSumativa){
-        
+
+    public void realizarActividadSumativa(Curso curso, ActividadSumativa actividadSumativa) {
+
     }
 
     public Estudiante() {
     }
-    
+
 }
